@@ -1,6 +1,4 @@
-## Hi there 👋
-
-#Luciano David Guerra
+## Luciano David Guerra
 
 **Tecnico electronico** . Estudiante de la facultad de UTN Haedo en la carrera Ingenieria electronica
 
