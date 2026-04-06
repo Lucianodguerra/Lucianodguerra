@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Tecnico electronico** . Estudiante de la faculta de UTN Haedo en la carrera Ingenieria electronica
+**Tecnico electronico** . Estudiante de la facultad de UTN Haedo en la carrera Ingenieria electronica
 
 <!--
 **Lucianodguerra/Lucianodguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
